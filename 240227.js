@@ -15,7 +15,7 @@ name ="john"
 console.log(name)
 */
 
-//函式
+//函式_1
 function sayhi(){
     console.log("hi")
 }
